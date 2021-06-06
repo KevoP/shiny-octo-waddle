@@ -1,0 +1,24 @@
+{
+   "components": [
+      {
+         "category": "sections",
+         "type": "hero",
+         "variant": "Default"
+      },
+      {
+         "category": "sections",
+         "type": "cards",
+         "variant": "Default"
+      },
+      {
+         "category": "sections",
+         "type": "separator",
+         "variant": "Default"
+      },
+      {
+         "category": "sections",
+         "type": "callToAction",
+         "variant": "Default"
+      }
+   ]
+}
